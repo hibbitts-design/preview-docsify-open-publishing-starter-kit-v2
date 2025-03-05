@@ -4,7 +4,7 @@
 ### XX/XX/2025
 
 **New:**
-* Migrated to the modernized and refactored Docsify v5 platform
+* Built with the modernized and refactored Docsify v5 platform
 * Adoption of Docsify v5's new theme system for enhanced customization and a modern user interface
 * Use of Marked.js v15+ (from Docsify v5) for markdown rendering, providing improved compatibility and rendering capabilities
 
@@ -28,7 +28,7 @@
 # Changelog
 
 ## [v1.3.0](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/releases/tag/v1.3.0)
-### XX/XX/2025
+### 03/04/2025
 
 **New:**
 * Support for image grid plugin, including customizations (with thanks and appreciation to @gllmAR)
